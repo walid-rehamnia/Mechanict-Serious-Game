@@ -1,5 +1,6 @@
 # Mechanict-Serious-Game MechaniCT is a 3D Serious Game which aims to teach both the Computational Thinking or 'CT' which i one of the most century required skill and also the car Mechanic basics ( the game contain real in…
 
+Unity version : Unity 2019.4.19f1 (64-bit)
 
 Mechanict is a 3D serious game for computational thinking learning through a missions of mechanic 
 Note: this game has many objective: learn Computational thinking
